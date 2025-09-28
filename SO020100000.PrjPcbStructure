@@ -1,1 +1,2 @@
 Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=A1|SchDesignator=A1|FileName=amps.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=amps.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
